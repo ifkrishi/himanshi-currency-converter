@@ -1,0 +1,26 @@
+{
+  "name": "himanshi-currency-converter",
+  "version": "1.0.0",
+  "description": "A npm package to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifkrishi/himanshi-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Himanshi Agrawal",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ifkrishi/himanshi-currency-converter/issues"
+  },
+  "homepage": "https://github.com/ifkrishi/himanshi-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
